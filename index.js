@@ -236,8 +236,8 @@ body:"➢𝙰𝙻𝙻 𝙷𝙰𝙸𝙻 𝚃𝙾 𝙺𝙸𝙽𝙶 𝚂𝙰𝙼 \n
 showAdAttribution: true,
 mediaType:2,
 thumbnail: mhatadzenyu,
-mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
-sourceUrl: `https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk`,
+mediaUrl:``, 
+sourceUrl: ``,
 }}
 }
 const dripbabe = fs.readFileSync('./Classicbot/leave.mp3')
