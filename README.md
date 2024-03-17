@@ -1,7 +1,7 @@
 
 
 # 𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕4
-##  ``` Are you Experiencing an error don't hesitate to ask me ``` [`DRIPS`](https://wa.me/+258869103969)
+##  ``` Are you Experiencing an error don't hesitate to ask me ``` [`SAM`](https://wa.me/+258869103969)
  WhatsApp with so Many features using multi device  [`BAILEYS`](https://github.com/adiwajshing/baileys)
  
  
