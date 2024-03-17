@@ -331,8 +331,7 @@ const ramCheck = setInterval(() => {
 	let list = []
 	for (let i of kon) {
 	    list.push({
-	    	displayName: await ZimBotInc.getName(i + '@s.whatsapp.net'),
-	    	
+	    	displayName: await ZimBotInc.getName(i + '@s.whatsapp.net'),	
 	}
 	ZimBotInc.sendMessage(jid, { contacts: { displayName: `${list.length} Contact`, contacts: list }, ...opts }, { quoted })
     }
